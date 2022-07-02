@@ -1,0 +1,32 @@
+{
+  "name": "mysql-express-sequelize-user",
+  "version": "1.0.0",
+  "description": "Aplicacion de juguete para probar las tecnologias",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NahuelUTNPigui/mysql-express-sequelize-user.git"
+  },
+  "keywords": [
+    "sequelize",
+    "mysql",
+    "express",
+    "user"
+  ],
+  "author": "Chita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NahuelUTNPigui/mysql-express-sequelize-user/issues"
+  },
+  "homepage": "https://github.com/NahuelUTNPigui/mysql-express-sequelize-user#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.2",
+    "sqlite3": "^5.0.8"
+  }
+}
